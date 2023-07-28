@@ -28,6 +28,18 @@ const App: React.FC = () => {
             title: 'Step 3',
             description,
           },
+          {
+            title: 'Step 4',
+            description,
+          },
+          {
+            title: 'Step 5',
+            description,
+          },
+          {
+            title: 'Step 6',
+            description,
+          },
         ]}
       />
 
